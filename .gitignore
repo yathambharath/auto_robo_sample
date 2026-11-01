@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+venv/
+results/
+screenshots/
+output.xml
+log.html
+report.html
+.idea/
+.vscode/
+.DS_Store

@@ -1,0 +1,14 @@
+pythonpath:
+  - libraries
+  - keywords
+  - resources
+
+outputdir: results
+
+variablefile:
+  - config/environments.robot
+
+include:
+  - smoke
+exclude:
+  - draft
